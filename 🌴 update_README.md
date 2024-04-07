@@ -1,4 +1,31 @@
-Sure, here's the updated Markdown file with the addition of the instructions for visualizing the phylogenetic tree using iTOL and other potential software options:
+# Metagenomics Data Analysis Pipeline
+
+This pipeline covers the key steps in analyzing metagenomics data, from data download and preprocessing to the creation of metagenome-assembled genomes and their annotation. The extra steps provide opportunities for further exploration and analysis of the data.
+
+## 1. Download public data
+- SRA run selector
+- Download from terminal
+
+## 2. Data preprocessing
+- Quality control (QC)
+- Trimmomatic
+- QC
+- Taxonomic profiling (Kraken2 and Krona)
+
+## 3. Assembly of the data into contigs
+- metaSPAdes
+
+## 4. Create metagenome-assembled genomes (MAGs)
+- MetaBAT2
+- CheckM (for completeness estimation)
+
+## 5. Annotation
+- Prokka or eggNOG-mapper
+
+## Extra
+- Comparative metagenomics
+- Machine learning in metagenomics
+
 
 # Metagenomics Practical Course
 
