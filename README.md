@@ -140,3 +140,11 @@ For how to use Machine Learning in metagenomics read about the package **SIAMCAT
 - Functional gene annotation
 - Orthologous gene families
 - Toxis, virulence factors
+
+### Do you have material from other courses that I can follow?
+- https://usda-ars-gbru.github.io/Microbiome-workshop/tutorials/metagenomics/
+- https://ucdavis-bioinformatics-training.github.io/2021-December-Metagenomics-and-Metatranscriptomics/data_analysis/00-project_setup_mm
+- https://www.ebi.ac.uk/training/online/courses/metagenomics-bioinformatics/introduction/
+
+
+
