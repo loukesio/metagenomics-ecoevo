@@ -89,7 +89,7 @@ Prior to running MetaBAT, we need to generate coverage statistics by mapping rea
 bwa index contigs.fasta
 
 # map the original reads to the contigs:
-bwa mem contigs.fasta ERR011322_1.fastq ERR011322_2.fastq > input.fastq.sam
+bwa mem contigs.fasta input_forward_paired.fastq input_reverse_paired.fastq > input.fastq.sam
 
 # reformat the file with samtools:
 samtools view -Sbu input.fastq.sam > junk
