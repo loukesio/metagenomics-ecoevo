@@ -134,7 +134,8 @@ prokka --outdir prokka_output --prefix sample_name metaspades_output/contigs.fas
 .... its need to edited 
 
 ### Machine learning in metagenomics
-For how to use Machine Learning in metagenomics read about the package **SIAMCAT** https://bioconductor.org/packages/release/bioc/html/SIAMCAT.html where you can use an input features such as: <br>
+For how to use Machine Learning in metagenomics read about the package **SIAMCAT** https://bioconductor.org/packages/release/bioc/html/SIAMCAT.html where you can use as input, 
+features such as: <br>
 - Species abundance
 - Metabolic pathway abundance
 - Functional gene annotation
